@@ -94,6 +94,7 @@ button {
   border-radius: 10%;
   font-weight: bolder;
   font-family: "poppins";
+  cursor: pointer;
 }
 
 button:hover {
