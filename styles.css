@@ -33,21 +33,11 @@ fieldset {
   padding: 1.25rem;
 }
 
-legend {
-  width: 30%;
-  height: 12.5%;
-  border-radius: 5%;
+#logo_sunset {
+  height: 90px;
+  width: 150px;
+  border-radius: 5% 10%;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
-  padding: 0.3125rem;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  background-color: rgb(142, 197, 252);
-  color: white;
-  font-size: 2rem;
-  font-weight: bolder;
-  -webkit-text-stroke: 0.5px black;
 }
 
 label,
@@ -73,12 +63,13 @@ input {
   border: none;
   padding: 0.5rem 0px;
   border-bottom: 2px solid rgb(142, 197, 252);
-  font-weight: bolder;
+  font-weight: lighter;
 }
 
 input:focus {
+  outline: none;
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
-  font-family: "poppins";
+  font-family: sans-serif;
 }
 
 ::placeholder {
