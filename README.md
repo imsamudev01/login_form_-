@@ -1,4 +1,4 @@
-![image](https://github.com/imsamudev01/login_form_1_sunset/assets/160678978/98f226b0-4045-4186-81c9-9d703ac0c39f)A little login form with html and css.
+A little login form with html and css.
 
 link to demo-page: https://imsamudev01.github.io/login_form_1_sunset/
 
